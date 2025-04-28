@@ -1,0 +1,2 @@
+/steven/:slug    /steven/:slug/     301!
+/steven/:slug/   /steven/:slug/index.json   200
