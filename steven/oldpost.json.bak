@@ -1,9 +1,1 @@
-{
-  "@context": "https://www.w3.org/ns/activitystreams",
-  "id": "https://ex.corvid.ca/steven/note-hello-world.json",
-  "type": "Note",
-  "attributedTo": "https://ex.corvid.ca/steven/actor.json",
-  "content": "Hello, world! 👋",
-  "published": "2025-04-27T12:00:00Z",
-  "to": ["https://www.w3.org/ns/activitystreams#Public"]
-}
+
