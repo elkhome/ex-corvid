@@ -1,6 +1,6 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
-  "id": "https://ex.corvid.ca/steven/note-hello-world",
+  "id": "https://ex.corvid.ca/steven/note-hello-world.json",
   "type": "Note",
   "attributedTo": "https://ex.corvid.ca/steven/actor.json",
   "content": "Hello, world! abc 👋",
