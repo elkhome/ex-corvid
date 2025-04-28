@@ -1,15 +1,33 @@
 {
-  "@context": "https://www.w3.org/ns/activitystreams",
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ],
   "id": "https://ex.corvid.ca/steven/actor.json",
   "type": "Person",
   "preferredUsername": "steven",
   "inbox": "https://ex.corvid.ca/steven/inbox",
   "outbox": "https://ex.corvid.ca/steven/outbox.json",
   "followers": "https://ex.corvid.ca/steven/followers.json",
+  "following": "https://ex.corvid.ca/steven/following.json",
   "featured": "https://ex.corvid.ca/steven/featured.json",
+  "summary": "🌿 Just a crow on the internet, exploring the fediverse. 🪶",
+  "url": "https://ex.corvid.ca/",
+  "attachment": [
+    {
+      "type": "PropertyValue",
+      "name": "Website",
+      "value": "<a href=\"https://ex.corvid.ca/\">ex.corvid.ca</a>"
+    },
+    {
+      "type": "PropertyValue",
+      "name": "Blog",
+      "value": "<a href=\"https://blog.example.com/\">blog.example.com</a>"
+    }
+  ],
   "publicKey": {
     "id": "https://ex.corvid.ca/steven/actor.json#main-key",
     "owner": "https://ex.corvid.ca/steven/actor.json",
-    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkq...IDAQAB\n-----END PUBLIC KEY-----"
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDe3SQJPlP1pa6LGplsbfDo1sU/\ns76JnsXOsEH7eVRwP7Yyasn6bKWcxF90Ls0X+BFyWp3iBCVPLC+gs0+AgxK13+kX\niD+ack6ujeEg9zZ33nGdTOLQmLFFHbxVP8y+pbQTMS1m2SupQBaEXpv4keGiMcIs\nZuP81s8jo4QpLIzkUQIDAQAB\n-----END PUBLIC KEY-----"
   }
 }
