@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://ex.corvid.ca/steven/outbox.json",
+  "type": "OrderedCollection",
+  "totalItems": 3,
+  "first": "https://ex.corvid.ca/steven/outbox-page-1.json"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://ex.corvid.ca/steven/actor.json",
+  "type": "Person",
+  "preferredUsername": "steven",
+  "inbox": "https://ex.corvid.ca/steven/inbox",
+  "outbox": "https://ex.corvid.ca/steven/outbox.json",
+  "followers": "https://ex.corvid.ca/steven/followers.json",
+  "featured": "https://ex.corvid.ca/steven/featured.json",
+  "publicKey": {
+    "id": "https://ex.corvid.ca/steven/actor.json#main-key",
+    "owner": "https://ex.corvid.ca/steven/actor.json",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkq...IDAQAB\n-----END PUBLIC KEY-----"
+  }
+}

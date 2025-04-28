@@ -1,0 +1,7 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://ex.corvid.ca/steven/followers.json",
+  "type": "OrderedCollection",
+  "totalItems": 2,
+  "first": "https://ex.corvid.ca/steven/followers-page-1.json"
+}

@@ -1,0 +1,9 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://ex.corvid.ca/steven/outbox-page-2.json",
+  "type": "OrderedCollectionPage",
+  "partOf": "https://ex.corvid.ca/steven/outbox.json",
+  "orderedItems": [
+    "https://ex.corvid.ca/steven/note-yet-another-post.json"
+  ]
+}

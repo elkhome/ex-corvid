@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://ex.corvid.ca/steven/featured.json",
+  "type": "OrderedCollection",
+  "totalItems": 2,
+  "orderedItems": [
+    "https://ex.corvid.ca/steven/note-hello-world.json",
+    "https://ex.corvid.ca/steven/note-yet-another-post.json"
+  ]
+}

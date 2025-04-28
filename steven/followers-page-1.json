@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "https://ex.corvid.ca/steven/followers-page-1.json",
+  "type": "OrderedCollectionPage",
+  "partOf": "https://ex.corvid.ca/steven/followers.json",
+  "orderedItems": [
+    "https://social.example.org/users/bob",
+    "https://social.example.org/users/carol"
+  ]
+}
