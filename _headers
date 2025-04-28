@@ -1,5 +1,29 @@
 /.well-known/webfinger
   Content-Type: application/jrd+json
 
+/steven/*
+  Content-Type: application/activity+json
+
 /steven/actor.json
+  Content-Type: application/activity+json
+
+/steven/featured.json
+  Content-Type: application/activity+json
+
+/steven/followers.json
+  Content-Type: application/activity+json
+
+/steven/following.json
+  Content-Type: application/activity+json
+
+/steven/outbox.json
+  Content-Type: application/activity+json
+
+/steven/inbox
+  Content-Type: application/activity+json
+
+/steven/note-hello-world.json
+  Content-Type: application/activity+json
+
+/steven/note-yet-another-post.json
   Content-Type: application/activity+json
