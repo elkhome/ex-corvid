@@ -25,6 +25,24 @@
       "value": "<a href=\"https://blog.example.com/\">blog.example.com</a>"
     }
   ],
+  "pinned": [
+    {
+      "type": "Note",
+      "id": "https://ex.corvid.ca/steven/note-hello-world.json",
+      "url": "https://ex.corvid.ca/steven/note-hello-world.json",
+      "published": "2025-04-28T00:00:00Z",
+      "content": "Hello world! This is my first post!",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"]
+    },
+    {
+      "type": "Note",
+      "id": "https://ex.corvid.ca/steven/note-yet-another-post.json",
+      "url": "https://ex.corvid.ca/steven/note-yet-another-post.json",
+      "published": "2025-04-28T00:00:00Z",
+      "content": "Yet another day on the fediverse.",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"]
+    }
+  ],
   "publicKey": {
     "id": "https://ex.corvid.ca/steven/actor.json#main-key",
     "owner": "https://ex.corvid.ca/steven/actor.json",
