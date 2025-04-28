@@ -1,0 +1,10 @@
+{
+  "subject": "acct:steven@ex.corvid.ca",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://ex.corvid.ca/steven/actor.json"
+    }
+  ]
+}
